@@ -21,3 +21,5 @@ Here I have this styles:
 these css variables do not appear in the React App.
 
 Why? Because everyone is doing drugs and no one is learning and bulding, everyone is destroying! We have Heroin, but we do not have Programming!
+
+Let's sue React, HTML, CSS. Since you do not have a Platform why are you lying to the People?
