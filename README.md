@@ -3,6 +3,7 @@
 Ok see src -> sptsldqie7rh -> sptsldqie7rh.tsx
 
 Here I have this styles:
+
 const rbgt = {
     // '-ws8nke7-0': `linear-gradient(0deg, rgba(0, 0, 0, 0.00) 100%, rgba(0, 0, 0, 0.16) 0%), url(${Football}) rgba(0, 0, 0, 0.10)`,
     '-ws8nke7-0': 'black',
