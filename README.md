@@ -23,3 +23,6 @@ these css variables do not appear in the React App.
 Why? Because everyone is doing drugs and no one is learning and bulding, everyone is destroying! We have Heroin, but we do not have Programming!
 
 Let's sue React, HTML, CSS. Since you do not have a Platform why are you lying to the People? They do not have IDE support for CSS, does not give propper errors for CSS. There is no connection between HTML and CSS.
+
+Ok now look at React, they do not have their own YouTube Channel, there are no contacts, some underground Talibans. There is no one to sue, there is no one to make the case. Will that thing start co-operating,
+will it start function at Large Scale? OK than give me the components of About You, no. Write them, no you can't....
