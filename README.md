@@ -28,3 +28,7 @@ Ok now look at React, they do not have their own YouTube Channel, there are no c
 will it start function at Large Scale? OK than give me the components of About You, no. Write them, no you can't....
 
 What is you idea to pull out component by compenent, than it may become line by line. Pornography! Why is that Attitude? Why did you make Forza Horizon 6 since someone cannot write 3 lines in React?
+
+So Meta are the creators of React, you see a Programming Environment cannot be free. This is super serious, we do not need the stupid games! People you are drilled in your 
+Super Heavy Films that have nothing in common with Reality! Turns out you as a Small Personal Company cannot build Websites and only Big Corporations are building the Websites!
+This means they do not want people to build Wesbites! Monopol! Google, Meta if it will be like that close those stupid Microwaves!
