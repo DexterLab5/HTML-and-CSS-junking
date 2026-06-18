@@ -26,3 +26,5 @@ Let's sue React, HTML, CSS. Since you do not have a Platform why are you lying t
 
 Ok now look at React, they do not have their own YouTube Channel, there are no contacts, some underground Talibans. There is no one to sue, there is no one to make the case. Will that thing start co-operating,
 will it start function at Large Scale? OK than give me the components of About You, no. Write them, no you can't....
+
+What is you idea to pull out component by compenent, than it may become line by line. Pornography! Why is that Attitude? Why did you make Forza Horizon 6 since someone cannot write 3 lines in React?
